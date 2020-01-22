@@ -1,0 +1,8 @@
+export const MAKE_MOVE = "MAKE_MOVE";
+export const SET_NUM_OF_PLAYERS = "SET_NUM_OF_PLAYERS";
+export const FETCH_DECK_REQUEST = "FETCH_DECK_REQUEST";
+export const FETCH_DECK_FAILURE = "FETCH_DECK_FAILURE";
+export const FETCH_DECK_SUCCESS = "FETCH_DECK_SUCCESS";
+export const END_ROUND = "END_ROUND";
+export const END_GAME = "END_GAME";
+export const PLAY_AGAIN = "PLAY_AGAIN"
